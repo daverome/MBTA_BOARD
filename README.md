@@ -1,10 +1,10 @@
 # MBTA_BOARD
 
 ## About
-This program is designed to run on a [Raspberry Pi](https//www.raspberrypi.com/) and 16 x 2 LCD display. It uses the [MBTA public API](https//www.mbta.com/developers/v3-api) to track the arrival times of the trains.
+This program is designed to run on a [Raspberry Pi](https://www.raspberrypi.com/) and 16 x 2 LCD display. It uses the [MBTA public API](https://www.mbta.com/developers/v3-api) to track the arrival times of the trains.
 
 ## Setup
-To Use this code you will first need to generate an [API Key](https//api-v3.mbta.com/register). Insert the generated key in mbta.py. After that set up the Raspberry Pi and the LCD Display according to the schematic below.
+To Use this code you will first need to generate an [API Key](https://api-v3.mbta.com/register). Insert the generated key in mbta.py. After that set up the Raspberry Pi and the LCD Display according to the schematic below.
 
 ![schematic](https://www.mbtechworks.com/wp-uploads/lcd1602-bb.jpg)
 
